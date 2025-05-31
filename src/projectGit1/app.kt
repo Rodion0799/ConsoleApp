@@ -1,6 +1,6 @@
 package projectGit1
 
-
+//start
 fun main() {
     println("Вас приветствует OC")
     val command = readLine()!!
